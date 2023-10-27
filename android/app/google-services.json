@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "579013724871",
+    "project_id": "cyclone-chats",
+    "storage_bucket": "cyclone-chats.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579013724871:android:03aec8256fe8df21ef0ce2",
+        "android_client_info": {
+          "package_name": "com.example.cyclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579013724871-u4qf7p55sc3hfnjungu8u1ktndrr67q0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj0PJqeN5o5ON5ttuf_yxA4IXDjb7xEIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579013724871-u4qf7p55sc3hfnjungu8u1ktndrr67q0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
